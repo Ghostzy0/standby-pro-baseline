@@ -4,6 +4,10 @@ This repository preserves the original **Standby Pro 1.0.0** Flutter app source 
 
 This is an archival source baseline, not a production binary or a claim to recreate another app. `app/` is byte-for-byte the tracked upstream app at that commit; `PROVENANCE.json` records SHA256 for every included app file. Third-party reference images and the historical Git objects containing them are excluded because their redistribution rights are unknown. Original source copyright and MIT licence are retained.
 
+![Original Dart UI in a temporary browser capture target with sample data](docs/assets/baseline.png)
+
+[Baseline documentation](https://ghostzy0.github.io/standby-pro-baseline/) · [Current improved app](https://ghostzy0.github.io/standby-pro/)
+
 ## Verify and run
 
 Use Flutter 3.41.9 / Dart 3.11.5. In `app/`:

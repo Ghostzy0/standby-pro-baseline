@@ -1,0 +1,9 @@
+# Standby Pro historical source baseline
+
+Preserved original Flutter source at upstream9ce5e167. This repository is an archive with source hash provenance, not a production signed phone binary or a faithful third-party replica claim.
+
+- [Provenance and source](https://github.com/Ghostzy0/standby-pro-baseline)
+- [Complete packaging release](https://github.com/Ghostzy0/standby-pro-baseline/releases/tag/v1.0.0-baseline.2)
+- [Active improved app](https://ghostzy0.github.io/standby-pro/)
+
+Run verify_provenance.py before Flutter pub get. Toolchain Flutter3.41.9/Dart3.11.5. No guaranteed search indexing/ranking implied by this optional file.
